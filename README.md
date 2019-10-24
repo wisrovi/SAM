@@ -6,3 +6,5 @@ https://keras.io/applications/
 
 
 https://colab.research.google.com/github/wisrovi/SAM/blob/master/Ejercicio_PID_temperatura.ipynb
+
+https://colab.research.google.com/notebooks/editor_details.ipynb
